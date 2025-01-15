@@ -26,6 +26,7 @@ print(c)
 a = b = c = 'same'
 print(a,b,c)
 
+# Unpack a Collection(Extract values from the into variables )
 fruits = ["apple", "banana", "cherry"]
 x, y, z = fruits
 print(x)
